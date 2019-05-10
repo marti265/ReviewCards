@@ -1,0 +1,6 @@
+framework module Pods_ReviewCards {
+  umbrella header "Pods-ReviewCards-umbrella.h"
+
+  export *
+  module * { export * }
+}
